@@ -1,0 +1,58 @@
+
+
+#Login-section {
+    background-image: url(D:\Bikash\React\react-dashboard-layout\src\assets\images\bg3.webp);
+    height:100vh;
+    background-repeat: no-repeat;
+    background-size: 100% 120%;
+    overflow-y:hidden;
+}
+
+.loginLogo{
+    width: 40%;
+}
+
+.headerOfLogin{
+    background-color: rgb(59, 59, 59);
+    padding:30px 50px;
+}
+
+.login_head {
+    color: #000;
+    font-size: 35px;
+    max-width: 80%;
+    font-family: Opensans-Light;
+    padding-top: 30px;
+}
+
+.login-form-section {
+    background-color: rgba(255, 255, 255, 0.342);
+    border-top: 3px solid #E68629;
+    width: 60%;
+    padding: 20px 10px 0px 10px;
+    text-align: center;
+    box-shadow: 6px 0 15px rgba(0, 0, 0, 0.4);
+    margin-left:100px;
+    
+}
+
+.login-form-title {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.login-form-body {
+    padding: 20px;
+}
+
+.forgot-password {
+    padding-bottom: 10px;
+    float: right;
+}
+.RegisterLink{
+    cursor: pointer;
+}
+.RegisterLinkSpan{
+    text-decoration: underline;
+    color:#293ce6;
+}
