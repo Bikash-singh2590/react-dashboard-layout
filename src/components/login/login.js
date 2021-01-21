@@ -30,7 +30,7 @@ const MyLoginPage = () => {
 
     // onSubmit function  
     const submitHandler = () => {
-
+        history.push('/Dashboard')
     }
 
     // route function for registation page
