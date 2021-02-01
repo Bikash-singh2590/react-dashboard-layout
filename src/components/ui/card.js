@@ -9,6 +9,7 @@ const useStyles = makeStyles({
         paddingTop: "1px",
         paddingBottom: "5px",
         background: "grey",
+        borderRadius:"7px"
 
     },
     tilte: {

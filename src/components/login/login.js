@@ -5,7 +5,7 @@ import Grid from "@material-ui/core/Grid";
 import Button from "@material-ui/core/Button";
 import { useHistory } from "react-router-dom";
 import "../login/login.css";
-import google from '../../../src/assets/images/google.png';
+import google from '../../assets/images/google.png';
 import { ValidatorForm, TextValidator } from 'react-material-ui-form-validator';
 
 
